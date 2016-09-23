@@ -1,0 +1,211 @@
+ 
+#contenidos{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	
+
+}
+ 
+body{
+background-color: #FFFFFF ;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+font-family: 'Franklin Gothic Heavy';
+color: white;
+width: 1000px;
+height: 254px; 
+font-size: 30px; 
+background-image: url(../img/banner.png);
+}
+
+.imagen1{
+	width: 220px;
+	height: 220px;
+	float: left; 
+	margin-left: 40px; 
+	margin-bottom: 10px;
+}
+
+.texto1{
+	width: 220px;
+	height: 200px;
+	float: left;
+	margin-left: 40px;
+	text-align: justify;
+	font-family: 'Franklin gothic Medium';
+}
+
+h2{
+font-family: 'Indie Flower', cursive;
+color: white;
+margin-left: 10px;
+font-size: 20px;
+text-align: left; 
+}
+
+header{
+	width: 1000px;
+	height: 120 px;
+	background: rgba(255, 255, 255, 10,70);
+}
+
+nav{
+width: auto;
+height: 50px;
+background: #EEB822; 
+border-bottom: 4px solid #005884;
+
+}
+ul{
+margin: auto;
+padding-top: 4px;
+}
+
+li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+	background: #005884;
+	margin: 3px;
+	border-radius: 100px;
+	box-shadow: 0 0 10px #939598; 
+
+}
+
+section{
+	width: 700px;
+	background: #FFFFFF;
+	height: 900px;
+	float: left;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+
+.contenido1{
+	width: 700px;
+	height: 351px; 
+	padding-bottom: 10px; 
+	
+}
+
+.titulo{
+	width: 700px;
+	height: 50px; 
+	padding-bottom: 10px;
+	border-bottom: 4px solid #EEB822;
+	font-family: 'Franklin gothic Medium'; 
+	text-align: center;
+	color: #58595B; 
+	font-size: 30px;
+}
+
+.noticia1{
+	width: 340px;
+	height: 350px; 
+	margin-top: 10px;
+	float: left;
+	border: dashed 1px;
+	font-family: 'Franklin gothic Medium'; 
+	text-align: center;
+	color: #58595B; 
+	font-size: 15px;
+}
+
+.imagen{
+	width: 124px;
+	height: 124px; 
+	margin-top: 34px;
+	margin-left: 102px;
+	float: left; 
+
+}
+
+.texto{
+	width: 250px;
+	height: 140px; 
+	margin-top: 30px;
+	margin-left: 40px;
+	float: left;
+	font-family: 'Franklin gothic Book';  
+}
+
+.textofooter{
+	width: 400px;
+	height: 140px; 
+	margin-top: 40px;
+	margin-left: 200px;
+	float: left;
+	font-family: 'Franklin gothic Book';
+	color: #FFFFFF;  
+}
+
+.noticia2{
+	width: 340px;
+	height: 350px; 
+	margin-top: 10px;
+	float: right;
+	border: dashed 1px;
+	font-family: 'Franklin gothic Medium'; 
+	text-align: center;
+	color: #58595B; 
+	font-size: 14px;
+}
+aside{
+
+	width: 280px;
+	background: white;
+	height: 600px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+
+.footer{
+width: 1350px;
+height: 200px;
+background: #666666;
+float: left;
+margin-top: 20px;  
+}
+
+p{
+
+	font-size: 15px;
+	font-weight: bolder;
+	line-height: 24px;
+	padding: 10px;
+	text-align: justify;
+}
+ 
+
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
+
+.menu:link{color: white; text-decoration: none;}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{color: white; text-decoration: none; text-shadow: 0 0 13px white;}
+.menu:active{color: white; text-decoration: none;}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
